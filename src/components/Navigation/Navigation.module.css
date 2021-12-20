@@ -1,0 +1,17 @@
+.nav {
+  padding: 20px;
+  background-color: rgb(237, 237, 237);
+  /* border-bottom: 1px solid #000000b1; */
+  box-shadow: 0px 2px 4px rgba(43, 42, 42, 0.515);
+}
+
+.link {
+  padding-left: 30px;
+  font-size: 20px;
+  font-weight: 700;
+  color: #000000;
+  text-decoration: none;
+}
+.active {
+  color: rgb(197, 40, 40);
+}

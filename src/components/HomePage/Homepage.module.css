@@ -1,0 +1,38 @@
+.wrapper {
+  padding: 20px;
+}
+.title {
+  font-size: 32px;
+  padding-left: 40px;
+  padding-bottom: 20px;
+}
+.list {
+  padding-left: 10px;
+  padding-right: 10px;
+}
+.item a {
+  display: flex;
+  align-items: center;
+
+  padding-top: 10px;
+  padding-bottom: 10px;
+  margin-bottom: 10px;
+  border-radius: 10px;
+  border: 1px solid rgba(128, 127, 127, 0.679);
+  background-color: rgba(214, 214, 214, 0.57);
+}
+.item a:focus,
+.item a:hover {
+  background-color: rgba(214, 214, 214, 0.748);
+  box-shadow: 0px 0px 15px rgba(102, 102, 102, 0.727);
+}
+.img {
+  display: block;
+  padding-left: 80px;
+}
+.text {
+  margin: 0 auto;
+  font-size: 24px;
+  font-weight: 500;
+  color: #000000;
+}

@@ -1,7 +1,14 @@
 import './App.css';
+import Navigation from '../Navigation/Navigation.jsx';
+import Main from '../Main/Main';
 
 function App() {
-  return <h1>Hi</h1>;
+  return (
+    <>
+      <Navigation />
+      <Main />
+    </>
+  );
 }
 
 export default App;

@@ -1,0 +1,11 @@
+.wrapper {
+  padding: 20px;
+}
+.btn {
+  padding: 5px 30px;
+  margin-bottom: 20px;
+}
+.img {
+  display: block;
+  margin: 0 auto;
+}
